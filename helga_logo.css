@@ -1,0 +1,178 @@
+@charset "utf-8";
+/* CSS Document */
+
+#vorobei
+{
+	fill: #A72426;
+}
+	
+
+	
+#h
+{
+	animation: hideshow 10s ease-out 2s infinite ;	
+}
+	
+	@keyframes hideshow {
+	  0% { opacity: 1; }
+	  10% { opacity: 1; }
+	  15% { opacity: 0; }
+	  85% { opacity: 0; }
+  	  90% { fill-opacity: 1; }
+
+	  100% { opacity: 1; }
+	}
+
+	
+#e_1_
+{
+	animation: hideshow 10s ease-out 2.3s infinite ;	
+}
+	
+	@keyframes hideshow {
+	  0% { opacity: 1; }
+	  10% { opacity: 1; }
+	  15% { opacity: 0; }
+	  85% { opacity: 0; }
+  	  90% { fill-opacity: 1; }
+
+	  100% { opacity: 1; }
+	}
+	
+#l_1_
+{
+	animation: hideshow 10s ease-out 2.6s infinite;	
+}
+	
+	@keyframes hideshow {
+	  0% { opacity: 1; }
+	  10% { opacity: 1; }
+	  15% { opacity: 0; }
+	  85% { opacity: 0; }
+  	  90% { fill-opacity: 1; }
+
+	  100% { opacity: 1; }
+	}	
+	
+#g_1_
+{
+	animation: hideshow 10s ease-out 2.9s infinite ;	
+}
+	
+	@keyframes hideshow {
+	  0% { opacity: 1; }
+	  10% { opacity: 1; }
+	  15% { opacity: 0; }
+	  85% { opacity: 0; }
+  	  90% { fill-opacity: 1; }
+
+	  100% { opacity: 1; }
+	}	
+	
+#a_1_
+{
+	animation: hideshow 10s ease-out 3.1s infinite ;	
+}
+	
+	@keyframes hideshow {
+	  0% { opacity: 1; }
+	  10% { opacity: 1; }
+	  15% { opacity: 0; }
+	  85% { opacity: 0; }
+  	  90% { fill-opacity: 1; }
+
+	  100% { opacity: 1; }
+	}		
+
+#olga
+	{
+		fill-opacity: 0;
+	}
+
+
+
+	#o_2_
+{
+	animation: hideshow1 10s ease-out 7s infinite ;	
+}
+	
+	@keyframes hideshow1 {
+	  0% { fill-opacity: 0; }
+	  10% { fill-opacity: 0; }
+	  15% { fill-opacity: 1; }
+	  25% { fill-opacity: 1; }
+	  35% { fill-opacity: 0; }
+	  90% { fill-opacity: 0; }
+	  100% { fill-opacity: 0; }
+	}	
+	
+#l
+{
+	animation: hideshow1 10s ease-out 7.3s infinite ;	
+}
+	
+	@keyframes hideshow1 {
+	  0% { fill-opacity: 0; }
+	  10% { fill-opacity: 0; }
+	  15% { fill-opacity: 1; }
+	  25% { fill-opacity: 1; }
+	  35% { fill-opacity: 0; }
+	  90% { fill-opacity: 0; }
+	  100% { fill-opacity: 0; }
+	}		
+	
+#g
+{
+	animation: hideshow1 10s ease-out 7.6s infinite ;	
+}
+	
+	@keyframes hideshow1 {
+	  0% { fill-opacity: 0; }
+	  10% { fill-opacity: 0; }
+	  15% { fill-opacity: 1; }
+	  25% { fill-opacity: 1; }
+	  35% { fill-opacity: 0; }
+	  90% { fill-opacity: 0; }
+	  100% { fill-opacity: 0; }
+	}		
+		
+		
+#a
+{
+	animation: hideshow1 10s ease-out 7.9s infinite ;	
+}
+	
+	@keyframes hideshow1 {
+	  0% { fill-opacity: 0; }
+	  10% { fill-opacity: 0; }
+	  15% { fill-opacity: 1; }
+	  25% { fill-opacity: 1; }
+	  35% { fill-opacity: 0; }
+	  90% { fill-opacity: 0; }
+	  100% { fill-opacity: 0; }
+	}	
+	
+	
+
+	#c
+	{
+			animation: popup 6s ease-out infinite ;
+	}
+			
+			@keyframes popup {
+	  0% {
+		transform: translateY(4 px);
+		
+	  }
+	50% {
+		transform: translateY(6 px);
+		
+	  }
+	  
+	  100% {
+		transform: translateY(4px);
+		
+	  }
+	}
+		
+		
